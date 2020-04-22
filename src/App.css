@@ -255,11 +255,17 @@ button:active {
   .main {
     display: -webkit-inline-flex;
     width: 90%;
+    height: 90vh;
+    background: url("https://media2.giphy.com/media/wKnqovL33x9in9ci6X/giphy.webp?cid=ecf05e473ff208a0cf3ae305c0ec52b1939fe0f7f61b70e9&rid=giphy.webp&cid=ecf05e473ff208a0cf3ae305c0ec52b1939fe0f7f61b70e9&rid=giphy.webp&cid=ecf05e473ff208a0cf3ae305c0ec52b1939fe0f7f61b70e9&rid=giphy.webp&cid=ecf05e473ff208a0cf3ae305c0ec52b1939fe0f7f61b70e9&rid=giphy.webp") center center no-repeat;
+    background-size: cover;
+    display: -webkit-inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    
   }
 
-  .container {
-    background-color: rgb(15, 3, 142);
-  }
 
   .title-container__title {
     font-size: 18px;
