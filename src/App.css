@@ -255,12 +255,14 @@ button:active {
   .main {
     display: -webkit-inline-flex;
     width: 90%;
-    
+  }
+
+  .container {
+    background-color: rgb(15, 3, 142);
   }
 
   .title-container__title {
-    font-size: 20px;
-
+    font-size: 18px;
 
   }
 
