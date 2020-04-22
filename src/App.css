@@ -22,7 +22,7 @@ body {
   
 }
 
-.title-container {
+/* .title-container {
   height: 90vh;
   background: url("https://media2.giphy.com/media/cOzK12kNVHoiOLYX6P/giphy.webp?cid=ecf05e47acde39b5d45960eef497864eaf275fa01b14e99a&rid=giphy.webp") center center;
   background-size: cover;
@@ -31,7 +31,7 @@ body {
   justify-content: center;
   text-align: center;
   color: #fff;
-}
+} */
 
 .sunny {
   height: 90vh;
