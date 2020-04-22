@@ -52,7 +52,7 @@ class App extends React.Component {
     let styleTitle = {
       height: '90vh',
       background: 'url("https://media2.giphy.com/media/wKnqovL33x9in9ci6X/giphy.webp?cid=ecf05e473ff208a0cf3ae305c0ec52b1939fe0f7f61b70e9&rid=giphy.webp&cid=ecf05e473ff208a0cf3ae305c0ec52b1939fe0f7f61b70e9&rid=giphy.webp&cid=ecf05e473ff208a0cf3ae305c0ec52b1939fe0f7f61b70e9&rid=giphy.webp&cid=ecf05e473ff208a0cf3ae305c0ec52b1939fe0f7f61b70e9&rid=giphy.webp") center center no-repeat',
-      backgroundSize: 'cover',
+      backgroundSize: '100vh',
       display: '-webkit-inline-flex',
       alignItems: 'center',
       justifyContent: 'center',
