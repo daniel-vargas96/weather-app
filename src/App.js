@@ -108,7 +108,7 @@ class App extends React.Component {
         height: '90vh',
         background: 'url("https://media2.giphy.com/media/49VB0PHxR5Vsc/giphy.webp?cid=ecf05e47653ed14b2511aadbc33e6b8215d468424cee29e2&rid=giphy.webp") center center no-repeat',
         backgroundSize: '100vh 100vw',
-        display: 'flex',
+        display: '-webkit-inline-flex',
         alignItems: 'center',
         justifyContent: 'center',
         textAlign: 'center',

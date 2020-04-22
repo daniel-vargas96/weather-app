@@ -22,16 +22,16 @@ body {
   
 }
 
-/* .title-container {
+.title-container {
   height: 90vh;
   background: url("https://media2.giphy.com/media/cOzK12kNVHoiOLYX6P/giphy.webp?cid=ecf05e47acde39b5d45960eef497864eaf275fa01b14e99a&rid=giphy.webp") center center;
   background-size: cover;
-  display: flex;
+  display: -webkit-inline-flex;
   align-items: center;
   justify-content: center;
   text-align: center;
   color: #fff;
-} */
+}
 
 .sunny {
   height: 90vh;
@@ -259,9 +259,9 @@ button:active {
   }
 
   .title-container__title {
-    font-size: 25px;
+    font-size: 20px;
     margin-top: -200px;
-    float: unset;
+    display: -webkit-inline-flex;
 
   }
 
